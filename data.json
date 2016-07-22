@@ -106,5 +106,5 @@
 {"name":"wrong","size":2,"imports":["way", "nothing"]}, 
 {"name":"name","size":1,"imports":["old"]}, 
 {"name":"pleasant","size":5,"imports":["old", "air", "little", "other", "manner"]}, 
-{"name":"possible","size":2,"imports":["other", "thought"]}, 
+{"name":"possible","size":2,"imports":["other", "thought"]} 
 ]
